@@ -1,9 +1,5 @@
 ### Hi there 👋
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ReneSchmitz&label=Profile%20views&color=0e75b6&style=flat" alt="ReneSchmitz" /> </p>
-
-<p align="center">
-![Profile views](https://komarev.com/ghpvc/?username=ReneSchmitz&label=PROFILE+VIEWS&color=green&style=plastic)
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ReneSchmitz&label=PROFILE+VIEWS&color=green&style=plastic" alt="ReneSchmitz" /> </p>
 
 <!--
 **ReneSchmitz/ReneSchmitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
